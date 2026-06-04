@@ -1,6 +1,6 @@
-# ⚖️ AI Contract Analyzer Using Hybrid RAG and LLM
+# ⚖️ AI Contract Analyzer Using Advanced RAG and LLM
 
-A localized, privacy-focused Legal Contract Analysis assistant explicitly built for the Malaysian legal context. This system utilizes a **Hybrid Retrieval-Augmented Generation (RAG)** pipeline to evaluate employment/commercial contract clauses against local statutes (e.g., Employment Act 1955). It is engineered to mitigate critical RAG limitations such as statutory reference mismatches, context fragmentation, and LLM hallucinations through a rigorous two-stage retrieval mechanism.
+A localized, privacy-focused Legal Contract Analysis assistant explicitly built for the Malaysian legal context. This system utilizes a **advanced Retrieval-Augmented Generation (RAG)** pipeline to evaluate employment/commercial contract clauses against local statutes (e.g., Employment Act 1955). It is engineered to mitigate critical RAG limitations such as statutory reference mismatches, context fragmentation, and LLM hallucinations through a rigorous two-stage retrieval mechanism.
 
 
 ---
