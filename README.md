@@ -1,10 +1,8 @@
-
-```markdown
 # ⚖️ AI Contract Analyzer Using Hybrid RAG and LLM
 
 A localized, privacy-focused Legal Contract Analysis assistant explicitly built for the Malaysian legal context. This system utilizes a **Hybrid Retrieval-Augmented Generation (RAG)** pipeline to evaluate employment/commercial contract clauses against local statutes (e.g., Employment Act 1955). It is engineered to mitigate critical RAG limitations such as statutory reference mismatches, context fragmentation, and LLM hallucinations through a rigorous two-stage retrieval mechanism.
 
-```
+
 ---
 
 ## 🎯 Key Project Objectives & Features
@@ -159,10 +157,4 @@ streamlit run 2_chatbot.py
 ## 🧑‍💻 Author & Project Attribution
 
 This project was designed, developed, and evaluated **solo** by **Muhammad Amsyar Bin Hazalan** as a Final Year Project (FYP).
-```
 
-
-
-Kau salin teks ni, heret masuk ke GitHub sekali dengan fail-fail semalam, gerenti halaman repo kau nampak gempak gila!
-
-```
