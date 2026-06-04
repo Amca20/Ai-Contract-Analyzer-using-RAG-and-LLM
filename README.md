@@ -156,5 +156,5 @@ streamlit run 2_chatbot.py
 
 ## 🧑‍💻 Author & Project Attribution
 
-This project was designed, developed, and evaluated **solo** by **Muhammad Amsyar Bin Hazalan** as a Final Year Project (FYP).
+This project was designed, developed, and evaluated by **Muhammad Amsyar Bin Hazalan** as a Final Year Project (FYP).
 
